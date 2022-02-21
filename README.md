@@ -7,3 +7,7 @@
 ## Be aware of Case-sensitivity
 1. Got "XMLhttpRequest is not defined" at noon. After trying many thing,Found it was XMLHttpRequest() whole time at night. just writing 'H' as 'h' can ruin your day.
 2. If even got stuck, then look for simole mistake first. Try case-sensitivity and semicolon or Syntax error (Though semicolon is not necessary in new line in JavaScript.
+
+## Callback Function =>
+1. If a function is passed as parameter in anaother function, then first bracket () should not be there with parameter or these will call the parameter function immediately.
+2. Function should be called with only name or the whole function should be defined as parameter.

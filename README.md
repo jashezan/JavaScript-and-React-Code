@@ -11,3 +11,13 @@
 ## Callback Function =>
 1. If a function is passed as parameter in anaother function, then first bracket () should not be there with parameter or these will call the parameter function immediately.
 2. Function should be called with only name or the whole function should be defined as parameter.
+
+## Non primitive Data types without console.log() doesn't show list
+Prtimitve Data Types:
+1. Number
+2. String
+3. Boolean
+4. Undefined
+5. Null
+6. Object
+7. Symbol
